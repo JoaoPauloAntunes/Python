@@ -1,8 +1,6 @@
 from random import randint
 
 """
-tupla, def, import randint
-
 PEDRA x PAPEL : PAPEL
 PEDRA x TESOURA : PEDRA
 
