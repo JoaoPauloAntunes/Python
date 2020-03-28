@@ -11,7 +11,6 @@ mult = n1 * n2
 print('a multiplicação de {} e {} é {}'.format(n1, n2, mult))
 
 div = n1 / n2
-# restringe a resposta a duas casas decimais
 # restringe a resposta a duas casas decimais  
 print('a divisão de {} e {} é {:.2f}'.format(n1, n2, div))
 
