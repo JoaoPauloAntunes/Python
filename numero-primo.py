@@ -1,4 +1,4 @@
-n = int(input('Digite um número: ')) 
+n = int(input('Digite um número: '))
 
 primo = True
 if n <= 1 or (n > 2 and n%2 == 0):
